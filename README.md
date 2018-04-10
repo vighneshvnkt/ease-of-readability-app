@@ -1,4 +1,4 @@
-# ease-of-readability-for-dyslexic-people
+# ease-of-readability-app
 An ASP.NET web app based on research done for undergrad capstone project
 <br/> The [Published paper](https://github.com/vighneshvnkt/ease-of-readability-app/blob/master/IJEDR1504056%20EASE%20OF%20READABILITY.pdf) can be viewed here
 </br> Details of the work can be found in the PPT and the black book
